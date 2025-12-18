@@ -1,0 +1,22 @@
+
+export const COLORS = {
+  EMERALD_DARK: '#064e3b',
+  EMERALD_LIGHT: '#10b981',
+  GOLD_BRIGHT: '#fbbf24',
+  GOLD_METAL: '#d97706',
+  BG_DEEP: '#020617',
+};
+
+export const TREE_CONFIG = {
+  PARTICLE_COUNT: 12000,
+  HEIGHT: 12,
+  RADIUS: 5,
+  SCATTER_RADIUS: 25,
+  TRANSITION_SPEED: 0.05,
+};
+
+export const ORNAMENT_COUNTS = {
+  BALLS: 80,
+  BOXES: 40,
+  STARS: 120,
+};
